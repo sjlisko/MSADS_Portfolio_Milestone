@@ -43,20 +43,20 @@ Research Questions:
 
 •	README.md
 
-o	Overview Document detailing repository contents
+    o	Overview Document detailing repository contents
 
 •	Data:
 
-o	All data used in this project
+    o	All data used in this project
 
 •	Code:
 
-o	Scripts used to build database and conduct analysis
+    o	Scripts used to build database and conduct analysis
 
 •	Project report:
 
-o	BrennenLisko_IST718_Sec1_Lab3_2020
+    o	BrennenLisko_IST718_Sec1_Lab3_2020
 
 •	Project description:
 
-o	b.1.1_41472_laboratory_exercise_-_1_clean
+    o	b.1.1_41472_laboratory_exercise_-_1_clean
