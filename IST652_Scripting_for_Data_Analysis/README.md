@@ -1,6 +1,7 @@
 # IST 652:Scripting for Data Analysis 
 
 Samantha Brennen-Lisko
+
 763650135
 
 sbrennen@syr.edu
