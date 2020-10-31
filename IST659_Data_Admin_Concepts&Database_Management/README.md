@@ -1,11 +1,11 @@
-IST 659: Data Administration and Database Management
+# IST 659: Data Administration and Database Management
 
 Samantha Brennen-Lisko
 763650135
 
 sbrennen@syr.edu
 
-Description:
+## Description:
 I have been asked to create a database for a non-profit I am involved with, They wanted to be able to look into some of the following areas:
  
   •	  How many students are they serving within a year?
@@ -17,7 +17,7 @@ I have been asked to create a database for a non-profit I am involved with, They
   •	  Are their parents involved with PAGE?
 
 
-Required Tools:
+## Required Tools:
 
   •	SQL Server Management Studio
 
@@ -27,7 +27,7 @@ Required Tools:
 
   •	Power BI
 
-Table of Contents:
+## Table of Contents:
 
   •	README.md
 
