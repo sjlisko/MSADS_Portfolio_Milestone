@@ -7,42 +7,50 @@ sbrennen@syr.edu
 
 Description:
 I have been asked to create a database for a non-profit I am involved with, They wanted to be able to look into some of the following areas:
-  1) How many students are they serving within a year?
-  2) Do they participate in Super Saturday and the Spelling Bee?
-  3) What types of classes are they taking?
-  4) Are their parents involved with PAGE?
+ 
+  •	  How many students are they serving within a year?
+  
+  •	  Do they participate in Super Saturday and the Spelling Bee?
+  
+  •	  What types of classes are they taking?
+  
+  •	  Are their parents involved with PAGE?
+
 
 Required Tools:
 
-  1) SQL Server Management Studio
-  2) SQL Server Integration Services
-  3) Microsoft Access  
-  4) Power BI
+  •	SQL Server Management Studio
+
+  •	SQL Server Integration Services
+
+  •	Microsoft Access  
+
+  •	Power BI
 
 Table of Contents:
 
-README.md
+  •	README.md
 
-  Overview Document detailing repository contents
+    o	Overview Document detailing repository contents
 
-Data:
+  •	Data:
 
-  All data used in this project
+    o	All data used in this project
 
-Code:
+  •	Code:
 
-  Scripts used to build database and conduct analysis
+    o	Scripts used to build database and conduct analysis
 
-Power BI & Access:
+  •	Power BI & Access:
 
-  1) Power BI dashboard
-  2) MS Access 
-  
-Project report:
+    o	Power BI dashboard
 
-  Samantha_BrennenLisko_IST659
+    o	MS Access 
 
-Project description:
+  •	Project report:
 
-  IST659+Project+Description
-  
+    o	Samantha_BrennenLisko_IST659
+
+  •	Project description:
+
+    o	IST659+Project+Description
