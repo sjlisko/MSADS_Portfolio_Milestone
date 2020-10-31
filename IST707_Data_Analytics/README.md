@@ -1,11 +1,12 @@
-IST 707:Data Analytics 
+# IST 707:Data Analytics 
 
 Samantha Brennen-Lisko
+
 763650135
 
 sbrennen@syr.edu
 
-Description:
+## Description:
 What makes one country’s citizens happier than another country. Is it the social support they get from the community? Is it how much money they make? Or simply being able to make their choices about how they live. This project used numerous models such as, Association Rule Mining, Clustering Analysis, Support Vector Machines, as well as others, to determine which contributing factors lead to one country happiness over another’s. 
 Research Questions:
 
@@ -15,7 +16,7 @@ Research Questions:
 
   •	Can a country's future happiness ranking be predicted?
 
-Required Tools:
+## Required Tools:
 
   •	R
 
@@ -70,7 +71,7 @@ Required Tools:
   •	library(d3heatmap)
   
 
-Table of Contents:
+## Table of Contents:
 
   •	README.md
   
