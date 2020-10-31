@@ -46,9 +46,9 @@ Table of Contents:
 
     o	Overview Document detailing repository contents
 
- •	Data:
+ •	Data Link:
 
-    o	All data used in this project
+    o	Link to Kaggle PPP dataset
 
  •	Code:
 
