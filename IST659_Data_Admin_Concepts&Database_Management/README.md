@@ -1,6 +1,7 @@
 # IST 659: Data Administration and Database Management
 
 Samantha Brennen-Lisko
+
 763650135
 
 sbrennen@syr.edu
