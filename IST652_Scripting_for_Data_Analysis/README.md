@@ -1,11 +1,11 @@
-IST 652:Scripting for Data Analysis 
+# IST 652:Scripting for Data Analysis 
 
 Samantha Brennen-Lisko
 763650135
 
 sbrennen@syr.edu
 
-Description:
+## Description:
 The Coronavirus Pandemic has created many challenges for businesses and governments. The federal government created many programs under the CARES act to help businesses pay their expenses so that they may be able to come out on the other side of this pandemic instead of having to close their doors. One such program was the Paycheck Protection Program. This analysis will look into the types of business, the amount of the loans, and how many employees they were able to retain because of this program. 
 
 Research Questions:
@@ -18,7 +18,7 @@ Research Questions:
 
    •	Which lending banks processed the most loans?
 
-Required Tools:
+## Required Tools:
 
   •	Python
 
@@ -40,7 +40,7 @@ Required Tools:
 
   •	Packages: MongoClient
 
-Table of Contents:
+## Table of Contents:
 
  •	README.md
 
