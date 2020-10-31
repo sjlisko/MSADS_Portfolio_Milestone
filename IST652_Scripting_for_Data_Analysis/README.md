@@ -23,23 +23,23 @@ Research Questions:
 
   •	Python
 
-  •	Packages: tweepy
+  •	Library: tweepy
 
-  •	Packages: json  
+  •	Library: json  
 
-  •	Packages: sys
+  •	Library: sys
 
-  •	Packages: pymongo
+  •	Library: pymongo
 
-  •	Packages: pandas
+  •	Library: pandas
 
-  •	Packages: matplotlib
+  •	Library: matplotlib
 
-  •	Packages: seaborn
+  •	Library: seaborn
 
-  •	Packages: numpy
+  •	Library: numpy
 
-  •	Packages: MongoClient
+  •	Library: MongoClient
 
 ## Table of Contents:
 
