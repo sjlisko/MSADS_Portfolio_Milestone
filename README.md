@@ -8,7 +8,7 @@ sbrennen@syr.edu
 
 ## Description:
 
-write up a discription
+Syracuse University's School of Information Studies Applied Data Science program gives students the ability to learn how to collect, model, analyze, develop insights, and communicate those findings using data in many different forms. Students learn these skills using different types of techniques and tools, such as R Studio with R code, Spyder and Jupyter notebook with Python, and SQL Server Management Studio with SQL in course such as, Scripting for Data Analysis, Database Admin. Concepts & Database Management, Data Analytics, and Big Data Analysis. The skills developed in the Applied Data Science program furnish data scientist in all fields to add value to any organization, but in the auditing and accounting fields, they can help close the expectations gap between businesses and this accounting and auditing departments. 
 
 ## Table of Contents
 
