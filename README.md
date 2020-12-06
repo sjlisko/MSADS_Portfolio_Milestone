@@ -22,7 +22,11 @@ Resume
 
 Written Portfolio Milestone Report
 
-    BrennenLisko__Samantha_PortfolioMilestone.pdf
+    Samantha_BrennenLisko_PortfolioMilestone.pdf
+
+Slide Deck Portfolio Milestone
+
+    Samantha_BrennenLisko_PortfolioMilestone_SlideDeck.pdf
 
 Key Course Projects and Assignments
 
